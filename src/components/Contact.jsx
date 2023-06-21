@@ -117,7 +117,7 @@ const Contact = () => {
       <section
         className="text-secondary gap-5 flex mt-5 items-center justify-center"
       >
-        <a className="contact-details" href="https://www.linkedin.com/in/vicky-yang-hu-cfa-cpa-ca-8287618">
+        <a className="contact-details" href="https://www.linkedin.com/in/vicky-yang-hu-8287618/">
           <i className="fab fa-linkedin text-xl"></i> LinkedIn
         </a>
         <a className="contact-details" href="https://github.com/vicky0h">
