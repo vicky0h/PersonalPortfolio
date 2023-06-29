@@ -33,6 +33,7 @@ import expensetracker from "./expensetracker.png";
 import sudoku from "./sudoku.png";
 import pomodoro from "./pomodoro.png";
 import financialcalculator from "./financialcalculator.png";
+import weblogo from "./weblogo.png";
 
 export {
   logo,
@@ -66,4 +67,5 @@ export {
   sudoku,
   pomodoro,
   financialcalculator,
+  weblogo,
 };
