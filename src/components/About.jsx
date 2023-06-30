@@ -30,8 +30,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-black text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a results-driven and adaptable full stack web developer with a background in accounting and a passion for delivering innovative solutions, 
-        seeking an entry-level opportunity in utilizing React, Node.js for a full-stack, front-end, or back-end role to leverage technical skills and contribute to the development of impactful projects. I am a quick leaner, efficient performer, and good team player. Let's work together to bring your ideas to life!
+       Results-driven full stack web developer with an accounting background, skilled in React and Node.js. Seeking entry-level role to contribute technical expertise and deliver innovative solutions. Quick learner, efficient performer, and strong team player. Let's bring your ideas to life!
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services?.map((service, index) => (
