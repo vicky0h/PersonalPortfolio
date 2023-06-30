@@ -30,7 +30,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-black text-[17px] max-w-3xl leading-[30px]"
       >
-        <ul className="list-disc">
+        <ul className="list-disc list-inside">
           <li>
              Results-driven full stack web developer with an accounting background, skilled in React and Node.js. 
           </li>
