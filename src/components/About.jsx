@@ -30,14 +30,14 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-black text-[17px] max-w-3xl leading-[30px]"
       >
-        <ul className="list-disc w-full">
-          <li>
+        <ul className="list-disc">
+          <li className="max-w-3xl">
              Results-driven full stack web developer with an accounting background, skilled in React and Node.js. 
           </li>
-          <li>
+          <li className="max-w-3xl">
              Quick learner, efficient performer, and strong team player.
           </li>
-          <li>
+          <li className="max-w-3xl">
             Seeking an entry-level opportunity in a front-end, back-end, or full-stack role to contribute technical expertise and deliver innovative solutions. 
           </li>
         </ul>
