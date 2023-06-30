@@ -31,13 +31,13 @@ const About = () => {
         className="mt-4 text-black text-[17px] max-w-3xl leading-[30px]"
       >
         <ul className="list-disc">
-          <li className="max-w-3xl">
+          <li className="max-w-4xl">
              Results-driven full stack web developer with an accounting background, skilled in React and Node.js. 
           </li>
-          <li className="max-w-3xl">
+          <li className="max-w-4xl">
              Quick learner, efficient performer, and strong team player.
           </li>
-          <li className="max-w-3xl">
+          <li className="max-w-4xl">
             Seeking an entry-level opportunity in a front-end, back-end, or full-stack role to contribute technical expertise and deliver innovative solutions. 
           </li>
         </ul>
