@@ -35,7 +35,7 @@ const About = () => {
              Results-driven full stack web developer with an accounting/finance background, skilled in React and Node.js. 
           </li>
           <li className="max-w-4xl">
-             Recognized as a quick learner, efficient performer, and strong team player with a keen eye of details.
+             Strong team player with good communication skills demonstrated through interaction with clients and staffs at all levels across the organization
           </li>
           <li className="max-w-4xl">
             Seeking an entry-level opportunity in a front-end, back-end, or full-stack role to contribute technical expertise and deliver innovative solutions. 
