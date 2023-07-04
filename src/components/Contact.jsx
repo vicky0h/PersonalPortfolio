@@ -120,7 +120,7 @@ const Contact = () => {
         <a className="contact-details" href="www.linkedin.com/in/vickyyang-hu">
           <i className="fab fa-linkedin text-xl"></i> LinkedIn
         </a>
-        <a className="contact-details" href="https://github.com/vicky0h">
+        <a className="contact-details" href="https://github.com/vickyyang-hu">
           <i className="fab fa-github text-xl"></i> GitHub
         </a>
         <a className="contact-details" href="mailto: vickyyang.hu@hotmail.com">
