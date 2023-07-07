@@ -8,7 +8,7 @@ const Hero = () => {
   const el = useRef(null);
   useEffect(() => {
     const typed = new Typed(el.current, {
-      strings: ["Vicky", "a full stack developer"],
+      strings: ["Vicky", "Your Next Full Stack Web Developer"],
       typeSpeed: 100,
       backSpeed: 100,
       loop: true,
