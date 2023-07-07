@@ -32,13 +32,13 @@ const About = () => {
       >
         <ul className="list-disc">
           <li className="max-w-4xl">
-             Results-driven full stack web developer with an accounting/finance background, skilled in React and Node.js. 
+             Results-driven full stack web developer with an accounting/finance background, skilled in HTML, CSS, JavaScript, Node.js, MongoDB, and React. 
           </li>
           <li className="max-w-4xl">
              Strong team player with good communication skills demonstrated through interaction with clients and staffs at all levels across the organization
           </li>
           <li className="max-w-4xl">
-            Seeking an entry-level opportunity in a front-end, back-end, or full-stack role to contribute technical expertise and deliver innovative solutions. 
+             Aspire to help bring creative projects to life, contribute technical expertise, and deliver innovative solutions. 
           </li>
         </ul>
       </motion.p>
